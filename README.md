@@ -7,7 +7,7 @@
 -  👨‍💻 Currently, an Advanced-Data Analytics student worker at Vestas   
   
 
-- 🔭 I’m currently working on [Data Science Project - Predicting stocks using SoMe](https://github.com/DataScienceProjectUni/PredictStockusingRedditandTwitter)  
+- 🔭 I’m currently working on [Data Science Project - Predicting stocks using SoMe](https://github.com/DataScienceProjectUni/PredictStockusingRedditandTwitter) and CNN applications. 
   
 
 - 🌱 I’m currently learning about Neural Networks, NLP, and Customer Analytics  
