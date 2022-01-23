@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on [Data Science Project - Predicting stocks using SoMe](https://github.com/DataScienceProjectUni/PredictStockusingRedditandTwitter) and CNN applications. 
   
 
-- 🌱 I’m currently learning about Neural Networks, NLP, and Customer Analytics  
+- 🌱 I’m currently learning about reinforcement learning and optimization algorithms
   
 
 - ❓ Open for any projects and cooperations  
